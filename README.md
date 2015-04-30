@@ -30,7 +30,8 @@ command will add the cast-volume-controller and it's dependencies to your projec
     
 #Integration
 The easiest way to integrate is to use one of the already provided elements which contain 
-cast-button.  The instructions below cover a custom integration.  You'll need to first include 
+cast-volume-controller.  The instructions below cover a custom integration.  You'll need to first 
+include 
 [Polymer](https://www.polymer-project.org/0.5/docs/start/getting-the-code.html).
 
 ##Including the element
