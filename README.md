@@ -13,8 +13,9 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 #cast-volume-controller
-This element represents the volume bar.  It handles both the volume bar in the main player bar
-and in the cast controller element.  It publishes 2 properties:
+This element represents the volume bars in the [castvideos-material](https://github.com/googlecast/CastVideos-material) sample.  
+
+It publishes 2 properties:
 
 castManager - the castManager object
 cast - boolean defining if it's purely for cast.
