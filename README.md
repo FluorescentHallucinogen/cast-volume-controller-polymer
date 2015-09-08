@@ -13,7 +13,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 #cast-volume-controller
-This element represents the volume bars in the [castvideos-material](https://github.com/googlecast/CastVideos-material) sample.  
+This element represents the volume bars in the [CastVideos-chrome-material](https://github.com/googlecast/CastVideos-chrome-material) sample.  
 
 It publishes 2 properties:
 
