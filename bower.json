@@ -2,6 +2,7 @@
   "name": "cast-volume-controller-polymer",
   "description": "cast volume controller",
   "keywords": [
+    "web-components",
     "cast",
     "volume",
     "controller"
